@@ -1,0 +1,26 @@
+.btn{
+    background-color: aquamarine;
+    width: 50px;
+    height: 50px;
+    border-radius: 20px;
+    border-color: aquamarine;
+    cursor: pointer;
+}
+body{
+    display: grid;
+    place-items: center;
+}
+
+#igual{
+    background-color: rgb(86, 86, 243);
+    border-color: rgb(86, 86, 243);
+}
+
+.btn:hover{
+background-color:rgb(180, 240, 220);
+}
+
+#igual:hover{
+    background-color: rgb(118, 118, 240) ;
+}
+
